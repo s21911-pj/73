@@ -1,6 +1,6 @@
 import {useParams} from "react-router-dom";
 
-export default function Sum() {
+export default function Add() {
     const {a, b} = useParams();
 
     return (

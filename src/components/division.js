@@ -2,7 +2,7 @@ import React from "react";
 import {useParams} from 'react-router-dom'
 import Error from "./error";
 
-export default function Division() {
+export default function Div() {
 
     const {a, b} = useParams();
 

@@ -1,6 +1,6 @@
 import {useParams} from "react-router-dom";
 
-export default function Substraction() {
+export default function Sub() {
     const {a, b} = useParams();
 
     return (
